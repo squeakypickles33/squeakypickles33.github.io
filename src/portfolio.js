@@ -301,7 +301,7 @@ const talkSection = {
     {
       title: "Build Actions For Google Assistant",
       subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
+      slides_url: "https://bit.ly/pasta-slides",
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
   ],
