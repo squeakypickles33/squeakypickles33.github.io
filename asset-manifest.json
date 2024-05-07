@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.5ce9404d.css",
-    "main.js": "/portfolio2024/static/js/main.5fe27847.js",
+    "main.js": "/portfolio2024/static/js/main.6c4542ba.js",
     "static/css/64.bba8fa55.chunk.css": "/portfolio2024/static/css/64.bba8fa55.chunk.css",
     "static/js/64.2a24a012.chunk.js": "/portfolio2024/static/js/64.2a24a012.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portfolio2024/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.7df4aa29.chunk.js": "/portfolio2024/static/js/769.7df4aa29.chunk.js",
     "static/media/NCAZST-230-01__11291.jpeg": "/portfolio2024/static/media/NCAZST-230-01__11291.b6abdbc53a202c1ba5b1.jpeg",
     "static/media/Montserrat-Regular.ttf": "/portfolio2024/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/resume.pdf": "/portfolio2024/static/media/resume.bb0009cee43e69273a3a.pdf",
     "static/media/Agustina.woff": "/portfolio2024/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/hack-reactor-circle-logo.png": "/portfolio2024/static/media/hack-reactor-circle-logo.b6154e6386795adae1ff.png",
     "static/media/s-l400.jpeg": "/portfolio2024/static/media/s-l400.b4b94c5318f37a6bf691.jpeg",
@@ -15,13 +16,12 @@
     "static/media/contactMailDark.svg": "/portfolio2024/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/portfolio2024/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/portfolio2024/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/resume.pdf": "/portfolio2024/static/media/resume.f0f733dd3cd732b39262.pdf",
     "static/media/saayaHealthLogo.webp": "/portfolio2024/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
     "static/media/nextuLogo.webp": "/portfolio2024/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
     "index.html": "/portfolio2024/index.html",
     "static/media/talksCardBack.svg": "/portfolio2024/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.5ce9404d.css.map": "/portfolio2024/static/css/main.5ce9404d.css.map",
-    "main.5fe27847.js.map": "/portfolio2024/static/js/main.5fe27847.js.map",
+    "main.6c4542ba.js.map": "/portfolio2024/static/js/main.6c4542ba.js.map",
     "64.bba8fa55.chunk.css.map": "/portfolio2024/static/css/64.bba8fa55.chunk.css.map",
     "64.2a24a012.chunk.js.map": "/portfolio2024/static/js/64.2a24a012.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portfolio2024/static/css/769.b3cbb36b.chunk.css.map",
@@ -29,6 +29,6 @@
   },
   "entrypoints": [
     "static/css/main.5ce9404d.css",
-    "static/js/main.5fe27847.js"
+    "static/js/main.6c4542ba.js"
   ]
 }
