@@ -72,13 +72,17 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
+    // {
+    //   skillName: "sass",
+    //   fontAwesomeClassname: "fab fa-sass"
+    // },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "TypeScript",
+      fontAwesomeClassname: "fab fa-code"
     },
     {
       skillName: "reactjs",
@@ -88,10 +92,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
+    // {
+    //   skillName: "swift",
+    //   fontAwesomeClassname: "fab fa-swift"
+    // },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -104,10 +108,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
-    {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
+    // {
+    //   skillName: "firebase",
+    //   fontAwesomeClassname: "fas fa-fire"
+    // },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
@@ -115,7 +119,39 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
-    }
+    },
+    {
+      skillName: "mongo",
+      fontAwesomeClassname: "fab fa-database"
+    },
+    {
+      skillName: "github",
+      fontAwesomeClassname: "fab fa-github"
+    },
+    {
+      skillName: "trello",
+      fontAwesomeClassname: "fab fa-trello"
+    },
+    {
+      skillName: "squarespace",
+      fontAwesomeClassname: "fab fa-squarespace"
+    },
+    {
+      skillName: "wix",
+      fontAwesomeClassname: "fab fa-wix"
+    },
+    {
+      skillName: "slack",
+      fontAwesomeClassname: "fab fa-slack"
+    },
+    {
+      skillName: "figma",
+      fontAwesomeClassname: "fab fa-figma"
+    },
+    {
+      skillName: "salesforce",
+      fontAwesomeClassname: "fab fa-salesforce"
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
