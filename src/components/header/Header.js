@@ -73,7 +73,11 @@ function Header() {
           )}
           {viewResume && (
             <li>
-              <a href="#resume">Resume</a>
+              <a
+                href="https://drive.google.com/file/d/1s4sv-8OXpgK0B94UwmhlE6bWm4fr8_ZC/view?usp=sharing"
+                download="derek williams resume.pdf"
+                >Resume
+              </a>
             </li>
           )}
           <li>
