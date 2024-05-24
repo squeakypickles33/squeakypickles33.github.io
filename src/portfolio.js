@@ -82,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "TypeScript",
-      fontAwesomeClassname: "fab fa-file-code"
+      fontAwesomeClassname: "fas fa-file-code"
     },
     {
       skillName: "reactjs",
@@ -102,7 +102,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "sql-database",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "aws",
@@ -122,7 +122,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "mongo",
-      fontAwesomeClassname: "fab fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "github",
