@@ -26,6 +26,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+html.dark-mode {
+  background-color: #171c28;
+}
 /* Media Query */
 @media (max-width: 1380px) {
   html,
