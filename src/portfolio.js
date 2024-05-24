@@ -82,7 +82,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "TypeScript",
-      fontAwesomeClassname: "fab fa-code"
+      fontAwesomeClassname: "fab fa-file-code"
     },
     {
       skillName: "reactjs",
@@ -102,7 +102,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fab fa-database"
     },
     {
       skillName: "aws",
@@ -162,21 +162,21 @@ const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
     {
-      schoolName: "Arizona State University",
-      logo: require("./assets/images/NCAZST-230-01__11291.jpeg"),
-      subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2018 - Current",
-      desc: "Taking courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    },
-    {
       schoolName: "Community College of the Air Force",
       logo: require("./assets/images/s-l400.jpeg"),
       subHeader: "Associate in Applied Science - Logistics",
       duration: "December 2017",
       desc: "Comprehensive knowledge of supply chain principles, inventory management techniques, warehousing strategies, and distribution network optimization, with adept management of complex logistical challenges to ensure timely delivery, cost-effectiveness, and waste reduction..",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-    }
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
+    {
+      schoolName: "Arizona State University",
+      logo: require("./assets/images/NCAZST-230-01__11291.jpeg"),
+      subHeader: "Bachelor of Science in Computer Science",
+      duration: "September 2018 - Current",
+      desc: "Taking courses about Software Engineering, Web Security, Operating Systems, ...",
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+    },
   ]
 };
 
@@ -204,7 +204,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",
