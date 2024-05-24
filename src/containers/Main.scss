@@ -2,6 +2,7 @@
 
 .dark-mode {
   background-color: $darkBackground;
-  color: white; //fix this background?
+  // color: white; //fix this background?
+  color: $darkBackground; //fix this background?
   transition: "0.1s";
 }
