@@ -5,3 +5,9 @@
   color: white;
   transition: "0.1s";
 }
+.light-mode {
+  background-color: $lightBackground2;
+}
+html {
+  background-color: $buttonColor;
+}
