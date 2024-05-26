@@ -225,40 +225,51 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "A FEW RECENT PROJECTS",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/findFriends.gif"),
+      projectName: "PetCentral",
+      projectDesc: "A full-stack social networking application with secure authentication, profile management, messaging features, forums, friend-finding, and search functionality.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://github.com/SA-BlueOcean/PetCentral/blob/dev/README.md"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/k6test.png"),
+      projectName: "Atelier System Design",
+      projectDesc: "End-to-end development and optimization of a scalable API and database for an existing application, ensuring peak performance and successful deployment.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://github.com/Triton-SDC-6/Atelier-Products"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/AtelierDemo.gif"),
+      projectName: "ECommerce Atelier",
+      projectDesc: "A comprehensive e-commerce application with product details, cart functionality, image gallery, ratings, reviews, and Q&A.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://github.com/Quidditch-Queue-Handlers/FEC-Project-Atelier/blob/main/README.md"
         }
       ]
     }
   ],
-  display: false // Set false to hide this projects section, defaults to true
+  display: true // Set false to hide this projects section, defaults to true
 };
 
 // Achievement Section
