@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio2024/static/css/main.9bd3672b.css",
-    "main.js": "/portfolio2024/static/js/main.16d657f2.js",
+    "main.js": "/portfolio2024/static/js/main.52f0e09d.js",
     "static/css/64.bba8fa55.chunk.css": "/portfolio2024/static/css/64.bba8fa55.chunk.css",
     "static/js/64.2a24a012.chunk.js": "/portfolio2024/static/js/64.2a24a012.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/portfolio2024/static/css/769.b3cbb36b.chunk.css",
@@ -11,6 +11,7 @@
     "static/media/NCAZST-230-01__11291.jpeg": "/portfolio2024/static/media/NCAZST-230-01__11291.b6abdbc53a202c1ba5b1.jpeg",
     "static/media/k6test.png": "/portfolio2024/static/media/k6test.4a6b8fc78ff0b154ebcc.png",
     "static/media/Montserrat-Regular.ttf": "/portfolio2024/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/nscs.png": "/portfolio2024/static/media/nscs.3cbbbc6d089f78df5a36.png",
     "static/media/Agustina.woff": "/portfolio2024/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/hack-reactor-circle-logo.png": "/portfolio2024/static/media/hack-reactor-circle-logo.b6154e6386795adae1ff.png",
     "static/media/s-l400.jpeg": "/portfolio2024/static/media/s-l400.b4b94c5318f37a6bf691.jpeg",
@@ -21,7 +22,7 @@
     "index.html": "/portfolio2024/index.html",
     "static/media/talksCardBack.svg": "/portfolio2024/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9bd3672b.css.map": "/portfolio2024/static/css/main.9bd3672b.css.map",
-    "main.16d657f2.js.map": "/portfolio2024/static/js/main.16d657f2.js.map",
+    "main.52f0e09d.js.map": "/portfolio2024/static/js/main.52f0e09d.js.map",
     "64.bba8fa55.chunk.css.map": "/portfolio2024/static/css/64.bba8fa55.chunk.css.map",
     "64.2a24a012.chunk.js.map": "/portfolio2024/static/js/64.2a24a012.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/portfolio2024/static/css/769.b3cbb36b.chunk.css.map",
@@ -29,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.9bd3672b.css",
-    "static/js/main.16d657f2.js"
+    "static/js/main.52f0e09d.js"
   ]
 }
