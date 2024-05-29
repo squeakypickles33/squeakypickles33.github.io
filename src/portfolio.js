@@ -1,4 +1,4 @@
-/* Change this file to get your personal Portfolio */
+/* Change this file to edit personal Portfolio */
 
 // To change portfolio colors globally go to the  _globalColor.scss file
 
@@ -72,10 +72,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "css3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
-    // {
-    //   skillName: "sass",
-    //   fontAwesomeClassname: "fab fa-sass"
-    // },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -92,10 +88,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    // {
-    //   skillName: "swift",
-    //   fontAwesomeClassname: "fab fa-swift"
-    // },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -108,10 +100,6 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "aws",
       fontAwesomeClassname: "fab fa-aws"
     },
-    // {
-    //   skillName: "firebase",
-    //   fontAwesomeClassname: "fas fa-fire"
-    // },
     {
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
@@ -167,15 +155,15 @@ const educationInfo = {
       subHeader: "Associate in Applied Science - Logistics",
       duration: "December 2017",
       desc: "Comprehensive knowledge of supply chain principles, inventory management techniques, warehousing strategies, and distribution network optimization, with adept management of complex logistical challenges to ensure timely delivery, cost-effectiveness, and waste reduction..",
-      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      // descBullets: [""]
     },
     {
       schoolName: "Arizona State University",
       logo: require("./assets/images/NCAZST-230-01__11291.jpeg"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2018 - Current",
-      desc: "Taking courses about Software Engineering, Web Security, Operating Systems, ...",
-      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Currently, taking courses about Software Engineering, Web Security, Operating Systems, etc.",
+      // descBullets: [""]
     },
   ]
 };
@@ -183,22 +171,22 @@ const educationInfo = {
 // Your top 3 proficient stacks/tech experience
 
 const techStack = {
-  viewSkillBars: false, //Set it to true to show Proficiency Section
+  viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "70%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "60%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "90%"
     }
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -208,13 +196,12 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "Galvanize/HackReactor",
+      company: "",
       companylogo: require("./assets/images/hack-reactor-circle-logo.png"),
       date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        ""
       ]
     }
   ]
@@ -294,21 +281,21 @@ const achievementSection = {
 
         }
       ]
-    }
-    // {
-    //   title: "Google Assistant Action",
-    //   subtitle:
-    //     "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-    //   image: require("./assets/images/googleAssistantLogo.webp"),
-    //   imageAlt: "Google Assistant Action Logo",
-    //   footerLink: [
-    //     {
-    //       name: "View Google Assistant Action",
-    //       url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-    //     }
-    //   ]
-    // },
+    },
+    {
+      title: "National Society of Collegiate Scholars",
+      subtitle:
+        "A select group of students who embodied the spirit of commitment to scholarship, leadership, and service, all built upon a foundation of integrity. Connected with like-minded peers, refined leadership skills, and gained meaningful community service experience.",
+      image: require("./assets/images/nscs.png"),
+      imageAlt: "NSCS Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1wGnzkHk8Sy5A-0d8Zb2m3DY_CiD8MrlQ/view?usp=sharing"
 
+        }
+      ]
+    }
   ],
   display: true // Set false to hide this achievements section, defaults to true
 };
@@ -318,7 +305,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "With Love for Developing cool stuff, I love to write and teach others what I have learned.",
   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
@@ -347,10 +334,10 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/pasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "",
+      subtitle: "",
+      slides_url: "",
+      event_url: ""
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -364,7 +351,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    // "https://anchor.fm/codevcast/embed/episodes/DevStory----Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    // ""
   ],
   display: false // Set false to hide this section, defaults to true
 };
