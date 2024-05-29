@@ -11,6 +11,7 @@ const ToggleSwitch = () => {
   return (
     <label className="switch">
       <input
+        id="checkbox"
         type="checkbox"
         checked={isDark}
         onChange={() => {
