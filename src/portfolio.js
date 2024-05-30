@@ -36,11 +36,12 @@ const socialMediaLinks = {
   github: "https://github.com/squeakypickles33",
   linkedin: "https://www.linkedin.com/in/derekwwilliams/",
   gmail: "dwilliams33dw@gmail.com",
-  // gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/derekthatsme",
+  instagram: "https://www.instagram.com/ddubyadubya/",
+  // gitlab: "https://gitlab.com/",
   // medium: "https://medium.com/@dwilliams33dw",
   // stackoverflow: "https://stackoverflow.com/users/",
-  // Instagram, Twitter and Kaggle are also supported in the links!
+  // Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
 };
