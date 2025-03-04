@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.d2683ef8.css",
-    "main.js": "/static/js/main.34a26128.js",
+    "main.js": "/static/js/main.f33bf8ac.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.2a24a012.chunk.js": "/static/js/64.2a24a012.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.7df4aa29.chunk.js": "/static/js/769.7df4aa29.chunk.js",
     "static/media/AtelierDemo.gif": "/static/media/AtelierDemo.5d7a3bbf9a760c9bee61.gif",
-    "static/media/findFriends.gif": "/static/media/findFriends.5fe4ff89141174831d66.gif",
+    "static/media/findFriends.gif": "/static/media/findFriends.170a0b487842f93dc781.gif",
     "static/media/NCAZST-230-01__11291.jpeg": "/static/media/NCAZST-230-01__11291.b6abdbc53a202c1ba5b1.jpeg",
     "static/media/k6test.png": "/static/media/k6test.4a6b8fc78ff0b154ebcc.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -22,7 +22,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.d2683ef8.css.map": "/static/css/main.d2683ef8.css.map",
-    "main.34a26128.js.map": "/static/js/main.34a26128.js.map",
+    "main.f33bf8ac.js.map": "/static/js/main.f33bf8ac.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.2a24a012.chunk.js.map": "/static/js/64.2a24a012.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.d2683ef8.css",
-    "static/js/main.34a26128.js"
+    "static/js/main.f33bf8ac.js"
   ]
 }
