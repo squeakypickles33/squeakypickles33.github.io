@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js 🔧
         uses: actions/setup-node@v3.8.1
         with:
-          node-version: 22.x
+          node-version: 22.x #need to update this number if build and deploy errors at npm install -g npm...
 
       - name: Update npm 🚀
         run: npm install -g npm@latest
